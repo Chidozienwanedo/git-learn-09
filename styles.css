@@ -5,3 +5,7 @@ p {
   background-color: bisque;
   color: darkslategrey;
 }
+
+div p {
+  font-family: "Courier New", Courier, monospace;
+}
