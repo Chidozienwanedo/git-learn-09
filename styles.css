@@ -1,3 +1,7 @@
 body {
   text-align: center;
 }
+p {
+  background-color: bisque;
+  color: darkslategrey;
+}
